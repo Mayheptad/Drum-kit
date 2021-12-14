@@ -8,7 +8,7 @@ h1 {
     font-weight: 900;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     color: #DBEDF3;
-    text-shadow: 2px 3px #DA0463;
+    /* text-shadow: 2px 3px #DA0463; */
 }
 
 .drum-container {
